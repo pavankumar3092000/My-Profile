@@ -1,0 +1,86 @@
+Medi Pavan Kumar
+SQL Engineer | Data Platform Architect | Python Backend Developer
+Hyderabad, India
+Email: kumar2042000@gmail.com
+Phone: +91-9392149379
+
+PROFILE
+SQL and backend engineer with nearly 5 years of experience building resilient data platforms, backend services, automation workflows, and CI/CD systems. Strong background in Oracle, PostgreSQL, Python, Kubernetes, Jenkins, GitLab CI, and AI-powered automation using LangChain, LangGraph, and custom LLM workflows. Recognized as Best Employee of the Year 2024 at iBasis India.
+
+CORE SKILLS
+Languages: Python, SQL, PL/SQL, Bash, PHP
+Databases: Oracle, PostgreSQL, MySQL
+DevOps and Cloud: Kubernetes, Docker, Jenkins, GitLab CI, AWS, Git
+AI and Automation: LangChain, LangGraph, Machine Learning, Fine-tuning, Agentic AI, Custom LLM
+Backend and APIs: Django, Flask, FastAPI, RESTful APIs, JWT / RBAC
+Monitoring and Tools: Prometheus, Apache Airflow, Cacti, Jira, Remedy
+
+EXPERIENCE
+SQL Engineer
+iBasis India Pvt Ltd, Hyderabad
+Apr 2023 - Present
+- Engineered backend services with Python, Oracle, and PostgreSQL on Kubernetes, boosting resiliency by 30%.
+- Automated data pipelines, cutting manual operations by 10-12 hours per week.
+- Advanced CI/CD using GitLab and Jenkins, shortening release cycles by 40%.
+- Drove query optimization work that improved SQL execution time by 45%.
+- Scaled data workloads for 3x growth with retention and indexing strategies.
+- Enhanced observability with Prometheus, reducing incident MTTR by 30%.
+
+Build Engineer
+PragmaEdge Software Services, Hyderabad
+Sep 2021 - Apr 2023
+- Standardized Jenkins and GitLab pipelines, reducing build durations by 35%.
+- Implemented Ansible automation, decreasing configuration errors by 45%.
+- Established Infrastructure as Code practices, cutting setup time by 6 hours.
+- Reduced production defect rate by 40% through rigorous code reviews.
+- Cut incident windows from approximately 2.5 hours to approximately 28 minutes using automated rollbacks.
+
+Web Developer Intern
+Outshade, Hyderabad
+Mar 2019 - May 2019
+- Built responsive PHP web interfaces, enhancing usability by 25%.
+- Contributed to code reviews, reducing defects by 20%.
+
+FEATURED PROJECTS
+Voice Management Tool - iBasis India
+Enterprise Oracle DB platform managing global voice traffic, pricing, floor costs, and bilateral deals across microservices.
+Technologies: Oracle, PL/SQL, Microservices, Materialized Views
+Impact: 45% faster queries
+
+Customer Service Desk AI - iBasis India
+AI-driven automation suite with Copilot agent and custom LLM to auto-triage and create tickets from emails and calls.
+Technologies: Python, LangChain, LLM, AI Agents
+Impact: 12-15 hours per week saved
+
+PSX Data Automation Suite - iBasis India
+Python and Flask web app automating PSX deployments in Linux with tuned DB queries and scalable API integrations.
+Technologies: Python, Flask, PostgreSQL, Linux
+Impact: 45% faster retrieval
+
+Build Automation Platform - PragmaEdge
+Automated IBM application deployments across AWS EC2, Lambda, OpenShift, and ECS using Terraform and Ansible IaC.
+Technologies: Terraform, Ansible, AWS, OpenShift
+Impact: 70% faster deployments
+
+UPS Logistics Integration - PragmaEdge
+Automated Sterling Integrator deployments with secure trading partner onboarding via FTP, SFTP, AS2, HTTP/HTTPS.
+Technologies: Sterling Integrator, SFTP, AS2, Automation
+Impact: 99% compliance rate
+
+EDUCATION
+B.Tech - Computer Science Engineering
+Sri Indu College of Engineering & Technology, 2021
+
+Class XII - PCM
+Narayana Junior College, 2017
+
+Class X - SSC
+Holy Mother High School, 2015
+
+CERTIFICATIONS AND ACHIEVEMENTS
+- Oracle APEX: Foundations
+- Oracle SQL Performance Tuning, 2025
+- Generative AI SQL Database Specialist, 2025
+- Best Employee of the Year - iBASIS, 2024
+- Event Organizer - NASA Space Apps India, 2018
+- Social Media Volunteer - GES, 2017

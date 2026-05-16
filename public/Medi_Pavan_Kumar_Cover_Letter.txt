@@ -1,0 +1,19 @@
+Medi Pavan Kumar
+Hyderabad, India
+kumar2042000@gmail.com
++91-9392149379
+
+Dear Hiring Manager,
+
+I am writing to express my interest in SQL Engineer, Backend Engineer, Data Platform, DevOps, and AI Automation roles where strong database engineering, backend development, and production reliability matter.
+
+I bring nearly 5 years of experience across enterprise SQL platforms, Python backend systems, CI/CD automation, Kubernetes deployments, and observability. In my current role as SQL Engineer at iBasis India, I have engineered backend services with Python, Oracle, PostgreSQL, and Kubernetes, improved SQL execution times by 45%, reduced incident MTTR by 30%, and automated data workflows that save 10-12 hours of manual effort each week.
+
+My background also includes build engineering at PragmaEdge, where I standardized Jenkins and GitLab pipelines, implemented Ansible automation, and supported infrastructure-as-code practices across AWS, OpenShift, and enterprise deployment environments. This combination of database depth, backend ownership, and DevOps discipline helps me build systems that are practical, scalable, and supportable in real production conditions.
+
+Recently, I have also worked with AI-powered automation using LangChain, LangGraph, custom LLM workflows, and Copilot-style agents. One of my featured projects, Customer Service Desk AI, helped automate ticket triage and creation from emails and calls, saving 12-15 hours per week.
+
+I would be excited to bring this blend of SQL performance tuning, Python engineering, deployment automation, and AI workflow experience to your team. Thank you for your time and consideration. I would welcome the opportunity to discuss how my experience can support your engineering goals.
+
+Sincerely,
+Medi Pavan Kumar
