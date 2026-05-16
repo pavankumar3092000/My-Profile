@@ -628,10 +628,10 @@ function About() {
               ))}
             </div>
             <div style={{ display: "flex", gap: 12, flexWrap: "wrap", marginTop: 28 }}>
-              <DownloadLink href="/Medi_Pavan_Kumar_Resume.txt" download="Medi_Pavan_Kumar_Resume.txt">
+              <DownloadLink href="/Pavan_Kumar_Medi.pdf" download="Pavan_Kumar_Medi.pdf">
                 Download Resume
               </DownloadLink>
-              <DownloadLink href="/Medi_Pavan_Kumar_Cover_Letter.txt" download="Medi_Pavan_Kumar_Cover_Letter.txt" tone="gold">
+              <DownloadLink href="/Pavan_Kumar_Cover_Letter.pdf" download="Pavan_Kumar_Cover_Letter.pdf" tone="gold">
                 Download Cover Letter
               </DownloadLink>
             </div>
@@ -1068,10 +1068,10 @@ function Contact() {
             Say Hello
           </a>
           <div style={{ display: "flex", justifyContent: "center", gap: 12, flexWrap: "wrap", marginTop: 18 }}>
-            <DownloadLink href="/Medi_Pavan_Kumar_Resume.txt" download="Medi_Pavan_Kumar_Resume.txt">
+            <DownloadLink href="/Pavan_Kumar_Medi.pdf" download="Pavan_Kumar_Medi.pdf">
               Download Resume
             </DownloadLink>
-            <DownloadLink href="/Medi_Pavan_Kumar_Cover_Letter.txt" download="Medi_Pavan_Kumar_Cover_Letter.txt" tone="gold">
+            <DownloadLink href="/Pavan_Kumar_Cover_Letter.pdf" download="Pavan_Kumar_Cover_Letter.pdf" tone="gold">
               Download Cover Letter
             </DownloadLink>
           </div>
